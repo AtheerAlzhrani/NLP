@@ -1,5 +1,5 @@
 # Project3: Depression Detection In Tweets
-Aims to classify tweets as either depressive or non-depressive using natural language
+Aims to classify 134348 tweets as either depressive or non-depressive using natural language
 processing (NLP) techniques and logistic regression
 
 
