@@ -1,5 +1,5 @@
 
-# Project4: Arabic_Text_Cleaning
+ # Project4: Arabic_Text_Cleaning
 **Arabic Text Cleaning Using Offensive Language Detection Dataset**
 
 *Objective:* The project focuses on cleaning Arabic text data to prepare it for analysis or model training. It utilizes the Arabic_Offensive_Comment_Detection dataset available on HuggingFace.
