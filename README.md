@@ -11,7 +11,7 @@
 * Data Cleaning: Apply text preprocessing techniques to remove irrelevant or noisy elements from the dataset. This includes tasks like removing non-Arabic characters, converting text to lowercase, and tokenizing the text.
 * Text Processing: Address additional processing tasks such as removing stop words and stemming words to standardize and normalize the text data.
   
-  Outcome: The cleaned dataset will be better suited for training machine learning models or conducting further analysis on offensive language detection in Arabic text.
+  **Outcome:** The cleaned dataset will be better suited for training machine learning models or conducting further analysis on offensive language detection in Arabic text.
 
 # Project3: Depression Detection In Tweets
 Aims to classify 134348 tweets as either depressive or non-depressive using natural language
